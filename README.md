@@ -1,11 +1,11 @@
 <<<<<<< HEAD
 # UofA-Campus-Navigation
-An interactive web app that helps students and visitors find their way around the University of Alberta. Features smart pathfinding for shortest and accessible routes, course-based search, and real-time directions on a dynamic campus map.
+
 =======
 # uofa-campus-nav-app
 
 Welcome to the UofA Campus Navigation App! This application is designed to help users navigate the University of Alberta campus efficiently. 
-
+An interactive web app that helps students and visitors find their way around the University of Alberta. Features smart pathfinding for shortest and accessible routes, course-based search, and real-time directions on a dynamic campus map.
 ## Features
 
 - Interactive map navigation
