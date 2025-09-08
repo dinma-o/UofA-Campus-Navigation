@@ -1,6 +1,5 @@
 # UofA-Campus-Navigation
 
-=======
 # uofa-campus-nav-app
 
 Welcome to the UofA Campus Navigation App! This application is designed to help users navigate the University of Alberta campus efficiently. 
