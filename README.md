@@ -71,4 +71,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - React for the UI library
 - Tailwind CSS for styling
 - All contributors and supporters of this project!
->>>>>>> 00cb532 (Project Strucuture)
