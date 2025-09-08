@@ -1,0 +1,26 @@
+{
+  "name": "uofa-campus-nav-app",
+  "version": "1.0.0",
+  "description": "A navigation application for the University of Arizona campus.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "jest": "latest",
+    "ts-jest": "latest",
+    "@types/jest": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest"
+  },
+  "license": "MIT"
+}
