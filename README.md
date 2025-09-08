@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # UofA-Campus-Navigation
 
 =======
